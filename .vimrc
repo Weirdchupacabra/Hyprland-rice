@@ -15,3 +15,4 @@ if (empty($TMUX))
     set termguicolors
   endif
 endif
+syntax on
