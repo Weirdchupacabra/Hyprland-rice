@@ -115,7 +115,7 @@ import:
   #multiplier: 3
 
 # Font configuration
-#font:
+font:
   # Normal (roman) font face
   #normal:
     # Font family
@@ -124,7 +124,7 @@ import:
     #   - (macOS) Menlo
     #   - (Linux/BSD) monospace
     #   - (Windows) Consolas
-    #family: monospace
+    family: jetbrainsmono nerd font
 
     # The `style` can be specified to pick a specific face.
     #style: Regular
